@@ -1,14 +1,12 @@
-## Overview
-
-
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddotan&show_icons=true&locale=en&layout=compact" alt="ddotan" width="25%"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddotan&" alt="ddotan" width="35%"/></p>
+
 
 ## Publications
 
 | Source | Topic | Summary |  
 |:---:|:---:|:---:|  
-| <img src="https://github.com/ddotan/ddotan/assets/33016810/24c50d6e-20bc-442c-bdeb-84f728a17656" width="30" height="30" /> | [AWS Aurora RDS Migration Case Study](https://aws.amazon.com/solutions/case-studies/reasonlabs-case-study/) | Migration of one of the most extensive malware databases worldwide from Azure to AWS |
+| <img src="https://github.com/ddotan/ddotan/assets/13457327/d6a0b9a4-9505-4b69-b6cd-088e116f60d2" width="30" height="30" /> | [AWS Aurora RDS Migration Case Study](https://aws.amazon.com/solutions/case-studies/reasonlabs-case-study/) | Migration of one of the most extensive malware databases worldwide from Azure to AWS |
 
 ## Contact
 
