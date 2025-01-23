@@ -9,6 +9,3 @@
 
 <a href="mailto:ddotand@gmail.com">![eMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/dotan-douek-40512377/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-
-
-![](https://komarev.com/ghpvc/?username=ddotan)
