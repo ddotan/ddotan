@@ -1,6 +1,3 @@
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddotan&show_icons=true&locale=en&layout=compact" alt="ddotan" width="25%"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddotan&" alt="ddotan" width="35%"/></p>
-
 
 ## Publications
 
